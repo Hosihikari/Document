@@ -1,4 +1,4 @@
 export default {
-    title: "Hosihikari Documentation",
-    description: "The Documentation of Hosihikari.",
+    title: "星光",
+    description: "BDS .NET plugin framework",
 };
