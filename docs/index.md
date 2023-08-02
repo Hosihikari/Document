@@ -2,12 +2,12 @@
 layout: home
 
 title: 星光
-titleTemplate: BDS .NET plugin framework
+titleTemplate: .NET plugin framework for BDS
 
 hero:
   name: 星光
-  text: Make your server working with .NET
-  tagline: Lightweight and flexible. Meet BDS .NET plugin framework you have always wanted.
+  text: Make BDS more powerful with .NET
+  tagline: Lightweight and flexible. Meet the .NET plugin framework for BDS you have always wanted.
   actions:
     - theme: brand
       text: Get Started
@@ -19,11 +19,11 @@ hero:
 features:
   - icon: 💪
     title: Powerful Managed Runtime
-    details: Extend your server with the latest .NET technologies.
+    details: Extend BDS with the latest .NET technologies.
   - icon: ✨
     title: Highly Modular
-    details: Use a modular design for better compatibility for your server.
+    details: Use a modular design to provide better plugin-server compatibility.
   - icon: ⚡️
     title: As Fast As You Can
-    details: Use efficient APIs to keep the scalability of your server.
+    details: Use efficient APIs to keep the scalability of BDS.
 ---
