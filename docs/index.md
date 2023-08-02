@@ -19,11 +19,11 @@ hero:
 features:
   - icon: 💪
     title: Powerful Managed Runtime
-    details: Extend BDS with the latest .NET technologies.
+    details: Extend BDS with the latest .NET features.
   - icon: ✨
     title: Highly Modular
-    details: The modular design allows for better compatibility between BDS and plugins.
-  - icon: ⚡️
-    title: As Fast As You Can
-    details: Efficient APIs to keep the scalability of plugins.
+    details: Modular design to improve compatibility between BDS and plugins.
+  - icon: ☂️
+    title: Ensure Data Integrity
+    details: Safely API to ensure that plugins behave as expected.
 ---
