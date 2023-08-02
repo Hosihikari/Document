@@ -13,17 +13,17 @@ hero:
       text: Get Started
       link: /guide/getting-started
     - theme: alt
-      text: Developing
+      text: Start Development
       link: /develop/getting-started
 
 features:
   - icon: 💪
-    title: Powerful Managed Engine
-    details: Build on the latest .NET technologies to empower your servers.
+    title: Powerful Managed Runtime
+    details: Extend your server with the latest .NET technologies.
   - icon: ✨
     title: Highly Modular
-    details: Use a modular design to provide greater compatibility.
+    details: Use a modular design for better compatibility for your server.
   - icon: ⚡️
-    title: Fast As You Can
-    details: Provide as efficient an API as possible.
+    title: As Fast As You Can
+    details: Use efficient APIs to keep the scalability of your server.
 ---
