@@ -22,8 +22,8 @@ features:
     details: Extend BDS with the latest .NET technologies.
   - icon: ✨
     title: Highly Modular
-    details: Use a modular design to provide better plugin-server compatibility.
+    details: The modular design allows for better compatibility between BDS and plugins.
   - icon: ⚡️
     title: As Fast As You Can
-    details: Use efficient APIs to keep the scalability of BDS.
+    details: Efficient APIs to keep the scalability of plugins.
 ---
