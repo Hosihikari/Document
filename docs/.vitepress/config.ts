@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-US',
   title: '星光',
-  description: 'BDS .NET plugin framework',
+  description: '.NET plugin framework for BDS',
 
   lastUpdated: true,
 
