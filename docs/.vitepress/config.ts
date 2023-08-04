@@ -5,13 +5,6 @@ export default defineConfig({
 
   lastUpdated: true,
 
-  sitemap: {
-    hostname: 'https://hshkr.top',
-    transformItems(items) {
-      return items.filter((item) => !item.url.includes('migration'))
-    }
-  },
-
   themeConfig: {
     socialLinks: [
       {
