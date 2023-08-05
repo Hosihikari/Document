@@ -33,6 +33,10 @@ export default defineConfig({
         footer: {
           message: 'Powered by Vitepress',
           copyright: '© 2023 星光 GFDL-1.3 & LAL-1.3'
+        },
+
+        lastUpdated: {
+          text: 'Last updated'
         }
       }
     },
@@ -50,6 +54,10 @@ export default defineConfig({
         footer: {
           message: '由Vitepress提供支持',
           copyright: '© 2023 星光 GFDL-1.3 & LAL-1.3'
+        },
+
+        lastUpdated: {
+          text: '更新于'
         }
       }
     }
