@@ -32,7 +32,7 @@ export default defineConfig({
 
         footer: {
           message: 'Powered by Vitepress',
-          copyright: '© 2023 星光 GFDL-1.3'
+          copyright: '© 2023 星光 GFDL-1.3 & LAL-1.3'
         }
       }
     },
@@ -49,7 +49,7 @@ export default defineConfig({
 
         footer: {
           message: '由Vitepress提供支持',
-          copyright: '© 2023 星光 GNU自由文档许可证v1.3'
+          copyright: '© 2023 星光 GFDL-1.3 & LAL-1.3'
         }
       }
     }

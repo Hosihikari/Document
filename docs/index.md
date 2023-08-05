@@ -15,6 +15,7 @@ hero:
     - theme: alt
       text: Start Development
       link: /develop/getting-started
+  image: /image/hosihikari.png
 
 features:
   - icon: 💪

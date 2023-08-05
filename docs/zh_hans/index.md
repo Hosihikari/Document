@@ -15,6 +15,7 @@ hero:
     - theme: alt
       text: 开发手册
       link: /zh_hans/develop/getting-started
+  image: /image/hosihikari.png
 
 features:
   - icon: 💪
