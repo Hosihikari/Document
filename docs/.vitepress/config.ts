@@ -58,7 +58,7 @@ export default defineConfig({
         },
 
         footer: {
-          message: 'Powered by Vitepress',
+          message: 'Powered by Vitepress  Artworks by TksYanruo',
           copyright: '© 2023 星光 GFDL-1.3 & LAL-1.3'
         },
 
@@ -79,7 +79,7 @@ export default defineConfig({
         },
 
         footer: {
-          message: '由Vitepress提供支持',
+          message: '由Vitepress提供支持 立绘来自Tks言若',
           copyright: '© 2023 星光 GFDL-1.3 & LAL-1.3'
         },
 
