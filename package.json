@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "GFDL-1.3-or-later",
   "devDependencies": {
-    "vitepress": "^1.0.0-beta.7"
+    "vitepress": "^1.0.0-rc.8"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
