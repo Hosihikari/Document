@@ -10,7 +10,10 @@ export default defineConfig({
       {
         icon: 'github',
         link: 'https://github.com/Hosihikari'
-      }
+      },
+      {
+        icon: 'nuget',
+        link: 'https://www.nuget.org/profiles/Hosihikari'
     ],
 
     search: {
