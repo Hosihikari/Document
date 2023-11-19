@@ -14,6 +14,7 @@ export default defineConfig({
       {
         icon: 'nuget',
         link: 'https://www.nuget.org/profiles/Hosihikari'
+      }
     ],
 
     search: {
