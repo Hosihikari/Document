@@ -2,12 +2,12 @@
 layout: home
 
 title: 星光
-titleTemplate: .NET plugin framework for BDS
+titleTemplate: .NET plugin API for BDS
 
 hero:
   name: 星光
   text: Make BDS more powerful with .NET
-  tagline: Lightweight and flexible. Meet the .NET plugin framework for BDS you have always wanted.
+  tagline: Lightweight and flexible. Meet the .NET plugin API for BDS you have always wanted.
   actions:
     - theme: brand
       text: Get Started

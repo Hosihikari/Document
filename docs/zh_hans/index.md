@@ -2,12 +2,12 @@
 layout: home
 
 title: 星光
-titleTemplate: BDS .NET插件框架
+titleTemplate: BDS .NET插件API
 
 hero:
   name: 星光
   text: 用.NET让BDS更强大
-  tagline: 轻量且灵活。见见你一直想要的BDS .NET插件框架。
+  tagline: 轻量且灵活；这就是你一直想要的BDS .NET插件API！
   actions:
     - theme: brand
       text: 开始使用

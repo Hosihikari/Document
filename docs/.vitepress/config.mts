@@ -12,7 +12,9 @@ export default defineConfig({
         link: 'https://github.com/Hosihikari'
       },
       {
-        icon: 'nuget',
+        icon: {
+          svg: 'https://icons8.com/icon/107282/nuget'
+        },
         link: 'https://www.nuget.org/profiles/Hosihikari'
       }
     ],
