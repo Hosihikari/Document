@@ -6,8 +6,8 @@ titleTemplate: Cross-platform Minecraft server implementation
 
 hero:
   name: 星光
-  text: Make Minecraft server more powerful with .NET
-  tagline: Lightweight and flexible. Meet the .NET Minecraft server implementation you have always wanted.
+  text: .NET Powered Minecraft Server Implementation
+  tagline: Build A High Performance Minecraft Server in Minutes
   actions:
     - theme: brand
       text: Get Started
@@ -15,16 +15,20 @@ hero:
     - theme: alt
       text: Start Development
       link: /develop/getting-started
-  image: /image/hosihikari.png
+  image:
+    src: /image/hosihikari.png
+    alt: 星光
 
 features:
-  - icon: 💪
-    title: Powerful Managed Runtime
-    details: Build Minecraft server with the latest .NET features.
+  - icon: 🚀
+    title: Fast
+    details: Use the latest .NET technology to provide a high performance experience for your Minecraft server.
   - icon: ✨
-    title: Highly Modular
-    details: Modular design to improve compatibility between Minecraft server and plugins.
-  - icon: ☂️
-    title: Ensure Data Integrity
-    details: Safely API to ensure that plugins behave as expected.
----
+    title: Highly Extensible
+    details: Modular design makes your Minecraft server more unique.
+  - icon: 💪
+    title: Support All Protocal
+    details: Players can play with confidence regardless of the version.
+  - icon: 🤝
+    title: Developer Friendly
+    details: The completely open source and open plugin API provides you with a better development experience.
