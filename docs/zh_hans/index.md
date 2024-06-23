@@ -7,7 +7,7 @@ titleTemplate: 跨平台 Minecraft 服务器实现
 hero:
   name: 星光
   text: 由.NET驱动的 Minecraft 服务器实现
-  tagline: 搭建一个高性能的 Minecraft 服务器，只需几分钟
+  tagline: 构建一个高性能的 Minecraft 服务器，仅需几分钟
   actions:
     - theme: brand
       text: 开始使用
